@@ -1,0 +1,13 @@
+C:\Users\alves\source\repos\lumini-ms-keep-fire\src\Domain\bin\Debug\net6.0\Lumini.Common.Model.xml
+C:\Users\alves\source\repos\lumini-ms-keep-fire\src\Domain\bin\Debug\net6.0\Lumini.KeepFire.Domain.deps.json
+C:\Users\alves\source\repos\lumini-ms-keep-fire\src\Domain\bin\Debug\net6.0\Lumini.KeepFire.Domain.dll
+C:\Users\alves\source\repos\lumini-ms-keep-fire\src\Domain\bin\Debug\net6.0\Lumini.KeepFire.Domain.pdb
+C:\Users\alves\source\repos\lumini-ms-keep-fire\src\Domain\obj\Debug\net6.0\Lumini.KeepFire.Domain.csproj.AssemblyReference.cache
+C:\Users\alves\source\repos\lumini-ms-keep-fire\src\Domain\obj\Debug\net6.0\Lumini.KeepFire.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alves\source\repos\lumini-ms-keep-fire\src\Domain\obj\Debug\net6.0\Lumini.KeepFire.Domain.AssemblyInfoInputs.cache
+C:\Users\alves\source\repos\lumini-ms-keep-fire\src\Domain\obj\Debug\net6.0\Lumini.KeepFire.Domain.AssemblyInfo.cs
+C:\Users\alves\source\repos\lumini-ms-keep-fire\src\Domain\obj\Debug\net6.0\Lumini.KeepFire.Domain.csproj.CoreCompileInputs.cache
+C:\Users\alves\source\repos\lumini-ms-keep-fire\src\Domain\obj\Debug\net6.0\Lumini.KeepFire.Domain.dll
+C:\Users\alves\source\repos\lumini-ms-keep-fire\src\Domain\obj\Debug\net6.0\refint\Lumini.KeepFire.Domain.dll
+C:\Users\alves\source\repos\lumini-ms-keep-fire\src\Domain\obj\Debug\net6.0\Lumini.KeepFire.Domain.pdb
+C:\Users\alves\source\repos\lumini-ms-keep-fire\src\Domain\obj\Debug\net6.0\ref\Lumini.KeepFire.Domain.dll

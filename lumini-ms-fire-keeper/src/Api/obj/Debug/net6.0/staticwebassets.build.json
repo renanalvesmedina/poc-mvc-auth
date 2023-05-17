@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "WzHExFGXzw60XcX7WA6wlRUYNJUv9KHQVnzUcyuF5Gw=",
+  "Source": "Lumini.FireKeeper.Api",
+  "BasePath": "_content/Lumini.FireKeeper.Api",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
